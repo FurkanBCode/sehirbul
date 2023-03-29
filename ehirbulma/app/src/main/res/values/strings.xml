@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Şehir Bulma</string>
+    <string name="spkodu">Şehir Plaka Kodunu Giriniz</string>
+    <string name="bul">Bul</string>
+    <string name="sonuc">Şehir ismi</string>
+    <string name="txt">Şehir İsmi gir</string>
+    <string name="once">Önceki Sayfa</string>
+    <string name="te">plaka kodu</string>
+</resources>
